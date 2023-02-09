@@ -1,6 +1,6 @@
 # hello-world
 
-### Why is it always "Hello, World" that gets used for a first line of text in coding languages? Why can't it be literally anything else?
+### why is it always "hello, world" that gets used for a first line of text in coding languages (why can't it be literally anything else)
 
 
 **test (bold)**
